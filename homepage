@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CXA Media - Marketing Agency</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Testimonials</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to CXA Media</h1>
+        <p>We are a marketing agency dedicated to helping businesses succeed.</p>
+        <a href="#" class="cta-button">Learn More</a>
+    </section>
+
+    <section class="services">
+        <h2>Our Services</h2>
+        <div class="service-item">
+            <h3>Digital Marketing</h3>
+            <p>Reach your target audience online through effective digital marketing strategies.</p>
+        </div>
+        <div class="service-item">
+            <h3>Brand Strategy</h3>
+            <p>Develop a strong brand identity that resonates with your customers.</p>
+        </div>
+        <!-- Add more service items as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 CXA Media. All rights reserved.</p>
+    </footer>
+</body>
+</html>
